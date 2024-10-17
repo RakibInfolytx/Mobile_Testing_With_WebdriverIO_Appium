@@ -1,2 +1,6 @@
-# Mobile_Testing_With_WebdriverIO_Appium
-Mobile_Testing_With_WebdriverIO_Appium
+## Setup
+- **Install packages**: `npm install`
+
+
+## Run test
+`npm test`
